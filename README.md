@@ -3,7 +3,7 @@ reversi-ai
 ![](http://raw.github.com/Zolomon/reversi-ai/master/reversi.gif)
 
 A text based python implementation of Reversi with an artificial intelligence as opponent.
-
+[![Run on Repl.it](https://repl.it/badge/github/Zolomon/reversi-ai)](https://repl.it/github/Zolomon/reversi-ai)
 Table of Contents
 =================
 
